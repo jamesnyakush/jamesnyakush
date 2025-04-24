@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Nyumbapoa](https://github.com/nyumbapoa)
 - 🌱 I’m currently learning **KMP**
-- 💬 Ask me about **Mobile(Kotlin,Swift)**
+- 💬 Ask me about **Mobile(Kotlin- Compose,Swift- SwiftUI)**
 - 📫 How to reach me **jnyakush99@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
