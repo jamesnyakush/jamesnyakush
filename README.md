@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Nyakush or Nyakundi</h1>
+<h1 align="center">Hi 👋, I'm 'Nyakush' or Nyakundi</h1>
 <h3 align="center">A passionate Mobile & Backend developer from Nairobi,Kenya</h3>
 
 - 🔭 I’m currently working on [Nyumbapoa](https://github.com/nyumbapoa)
