@@ -16,3 +16,5 @@
 </p>
 
 ![GitHub Stats](https://gh-readme-profile.vercel.app/api?username=jamesnyakush)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=jamesnyakush)
